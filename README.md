@@ -26,3 +26,8 @@ npm run dev
 
 5. Renombrar el .env.template a .env
 6. Ejecutar el SEED para [crear la base de datos local](localhost:3000/api/seed)
+
+
+## Nota: Usuario por defecto
+__usuario:__ test@test.com
+__password:__ 123456
